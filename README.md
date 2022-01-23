@@ -1,2 +1,2 @@
 # mynewrepo
-Chari'sfirst_repo
+Chari's first repository
